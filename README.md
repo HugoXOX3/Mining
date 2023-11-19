@@ -14,3 +14,5 @@ Donate KAS:kaspa:qqs35k2lrk20xsz8x7dn6srrunh4ayvfekk9f6zw0dx64zck763q2h9c4zjg6
 Donate Radiant:1AS8Q2c8shHsHEuKqQYg4Q1tbbvJFY38RB
 
 Donate Ecash:ecash:qqswp4gzs75kam9f7ld5xdhn27ahxspy7u2wxfjsvp
+
+Donate Monero:87f29B57sn4N4G1cM1LtXga2REhxg7aV9XyX7PprrJHManB1wB1indnRQhmCpK8AjmNVhoiZgnbgbeTCqBt3JDMyT6U9q9Z

@@ -3,6 +3,32 @@ A way to help people easily to mine crypto
 
 Using WireGuard to open the .conf so that you can mining on ChinaMainland
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Donate Bitcoin:bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth
 
 Donate Ethereum/web 3 coin:0x04749267649CE61caD16080c4bebb08fE3C5c1F4
@@ -30,3 +56,5 @@ Xxx:43dYmJ6ztvkNFwg5zvi9C8bVffCwWfiRoK3LfcKUEfYvPD7HWEyaPxU8dCbopHgWvkEBDoikPKxd
 Yyy: PEPExj6yKNf9CFkVjUJdQdX1PKPRTMDtQ5iYbuwiar7wPFvgYMN7vBR4FCUrT7NqXCA6wpYKHroo95H9iXXHSKdk22RfwBTXjbF
 
 Zzz:RLsyTZvG9w6FRn4m7GXrkbkcKUMQRVwSKa
+
+Haven:hvs1RHDFsMaSazfRQ873GBDkhGoejwQPvYtcGAxotzbEdqxCKfoz13DMUYHCJXztrohhmKvbpwXpKDszZbwFXjc75r1StRHm6a
